@@ -14,7 +14,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/albinjoseph1603/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/albinjose1603)
 [![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/588c52db-1e7d-48a0-926f-64b812d3711f)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/albinjojt1j)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/albinjojt1j)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/albinaalu)
 
 
@@ -41,7 +41,7 @@
 
 ### Technologies & Frameworks
 [![Chat GPT](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai)](https://github.com/albinjosep)
-[![Bard AI](https://img.shields.io/badge/https://bard.google.com-black?style=for-the-badge&logo=bard.google.com)](https://github.com/albinjosep)
+[![Bard AI](https://img.shields.io/badge/Google%20Bard-886FBF.svg?style=for-the-badge&logo=Google-Bard&logoColor=white)](https://github.com/albinjosep)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/albinjosep)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=react)](https://github.com/albinjosep)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/albinjosep)
@@ -49,6 +49,7 @@
 [![Agile](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=Agile)](https://hub.Agile.com/u/albnjosep)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://hub.kubernetes.com/u/albnjosep)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/albnjosep)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ## Database
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/albinjosep)
