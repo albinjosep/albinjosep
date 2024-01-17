@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Albin Joseph.<br>
-        Machine Learning, LLMs, Generative AI,  Deep learning, Data Structures, Algorithms .<br>
+        Machine Learning, LLMs, Data Structures, Algorithms .<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
 
